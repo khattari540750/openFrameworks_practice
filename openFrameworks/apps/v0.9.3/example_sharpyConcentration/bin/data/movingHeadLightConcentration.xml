@@ -1,0 +1,48 @@
+<movingHeadLightConcentration>
+	
+	<windowSetup>
+		<windowName>example_sharpyConcentration</windowName>
+		<windowSizeWidth>1200</windowSizeWidth>
+		<windowSizeHeight>600</windowSizeHeight>
+		<cameraDistance>500</cameraDistance>
+		<cameraFarClip>50000</cameraFarClip>
+		<cameraPosX>0</cameraPosX>
+		<cameraPosY>-8000</cameraPosY>
+		<cameraPosZ>0</cameraPosZ>
+	</windowSetup>
+
+
+	<applicationSetup>
+		<DMXDeviceName>/dev/tty.usbserial-EN175329</DMXDeviceName>
+		<saveFileName>movingHeadPinpointing_0_0.xml</saveFileName>
+	</applicationSetup>
+
+
+	<concentrationPoint>
+		<posX>0</posX> <posY>4000</posY> <posZ>5000</posZ>
+	</concentrationPoint>
+
+	<concentrationPoint>
+		<posX>100</posX> <posY>3000</posY> <posZ>12000</posZ>
+	</concentrationPoint>
+
+
+	<movingHeadLight>
+		<name>sharpy1</name>
+		<startChannel>1</startChannel>
+		<position>
+			<posX>0</posX> <posY>0</posY> <posZ>0</posZ>
+			<rotX>0</rotX> <rotY>0</rotY> <rotZ>0</rotZ>
+		</position>
+	</movingHeadLight>
+
+	<movingHeadLight>
+		<name>sharpy2</name>
+		<startChannel>17</startChannel>
+		<position>
+			<posX>500</posX> <posY>0</posY> <posZ>0</posZ>
+			<rotX>0</rotX> <rotY>0</rotY> <rotZ>0</rotZ>
+		</position>
+	</movingHeadLight>
+
+</movingHeadLightConcentration>

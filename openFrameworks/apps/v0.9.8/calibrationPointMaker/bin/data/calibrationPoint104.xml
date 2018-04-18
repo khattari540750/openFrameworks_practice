@@ -1,0 +1,40 @@
+<calibration_point>
+    <id>104000</id>
+    <position>
+        <x>6300</x>
+        <y>-4500</y>
+        <z>5400</z>
+    </position>
+</calibration_point>
+<calibration_point>
+    <id>104001</id>
+    <position>
+        <x>6300</x>
+        <y>-4500</y>
+        <z>4500</z>
+    </position>
+</calibration_point>
+<calibration_point>
+    <id>104002</id>
+    <position>
+        <x>6300</x>
+        <y>-4500</y>
+        <z>3600</z>
+    </position>
+</calibration_point>
+<calibration_point>
+    <id>104003</id>
+    <position>
+        <x>6300</x>
+        <y>-4500</y>
+        <z>2700</z>
+    </position>
+</calibration_point>
+<calibration_point>
+    <id>104004</id>
+    <position>
+        <x>6300</x>
+        <y>-4500</y>
+        <z>1800</z>
+    </position>
+</calibration_point>

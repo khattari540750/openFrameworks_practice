@@ -1,0 +1,9 @@
+<config>
+    <!-- window -->
+    <window_width>600</window_width>
+    <window_height>400</window_height>
+    
+    <!-- dmx -->
+    <dmx_path>/dev/tty.usbserial-EN187538</dmx_path>
+    <dmx_channel_total>32</dmx_channel_total>
+</config>

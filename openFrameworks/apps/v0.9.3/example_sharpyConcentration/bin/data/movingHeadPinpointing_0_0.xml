@@ -1,0 +1,14 @@
+<movingHeadLightPinpointing>
+	<movingHeadLight>
+		<pan>170</pan>
+		<panFine>174</panFine>
+		<tilt>169</tilt>
+		<tiltFine>38</tiltFine>
+	</movingHeadLight>
+	<movingHeadLight>
+		<pan>173</pan>
+		<panFine>212</panFine>
+		<tilt>145</tilt>
+		<tiltFine>75</tiltFine>
+	</movingHeadLight>
+</movingHeadLightPinpointing>
