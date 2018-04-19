@@ -5,12 +5,12 @@
 #include "ofxCv.h"
 
 class FeatureTracker {
-    public:
+   public:
     float f;
     float sx, sy;
     float w, h;
     float fovy, aspect;
-    
+
     cv::Mat intrinsic;
     cv::Mat distcoeffs;
     cv::Mat extrinsic;
