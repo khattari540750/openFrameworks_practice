@@ -6,7 +6,7 @@ void ofApp::setup(){
     vector <ofSerialDeviceInfo> deviceList = serial.getDeviceList();
     
     int boud = 115200;
-    string modem = "/dev/tty.usbmodem1411";
+    string modem = "/dev/tty.usbserial-MW7OITP";
     serial.setup(modem, boud);
 }
 
